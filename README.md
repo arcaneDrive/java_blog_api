@@ -70,7 +70,7 @@ Make sure you have the following installed:
   }
 
 
-<h1>Blog Posts</h1>
+Blog Posts
 
 GET /api/posts - Retrieve a list of blog posts.
 POST /api/posts - Create a new blog post (Requires ADMIN role).
